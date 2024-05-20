@@ -1,0 +1,69 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Elder Wand",
+        "description": "Made of Elder Wood, 15 inches and Thestral tail hair core.",
+        "price": "12000",
+        "rating": "'Totally cool' - Tom Beasley",
+        "imageUrl": "https://images.unsplash.com/photo-1615485020471-b66207f5e3bb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": "2",
+        "name": "Resurrection Stone",
+        "description": "Able to bring back the spirits of the holder's deceased loved ones; activating when the Stone is turned three times in the user's hand.",
+        "price": 15000,
+        "rating": "'Great product!' - Jarry Rotter",
+        "imageUrl": "https://media.istockphoto.com/id/1816142201/photo/close-up-cut-lapis-lazuli-gemstone-beautiful-navy-blue-piece.jpg?s=612x612&w=0&k=20&c=4BUZVzF3oIuZRkyTRsB9LxLewlhyblS4pKIdQg0vivQ="
+      },
+      {
+        "id": "3",
+        "name": "Cloak of Invisibility",
+        "description": "Able to conceal its wearer so absolutely, that even death itself can not find them.",
+        "price": 250000,
+        "rating": "'Perfect for bad hair days' - Harmony Cranger",
+        "imageUrl": "https://images.unsplash.com/photo-1644430261439-beb2db7ae22a?q=80&w=2077&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": "4",
+        "name": "White Owl",
+        "description": "White Owl best friend that delivers letters for you.",
+        "price": 1,
+        "rating": "'Five out of five stars.' - Annonomous ",
+        "imageUrl": "https://images.unsplash.com/photo-1500373994708-4d781bd7bd15?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aGFycnklMjBwb3R0ZXIlMjBjYXBlfGVufDB8fDB8fHww"
+      },
+      {
+        "id": "6",
+        "name": "House Elf",
+        "description": "A house elf servant who is pleased to serve his or her master. DO NOT GIVE THEM CLOTHES. Warthogs is not responsible for any freed house elfs.",
+        "price": "10",
+        "rating": "'Don't mention SPEW, they hate that.' - Walrick Wallenby ",
+        "imageUrl": "https://images.unsplash.com/photo-1615946027884-5b6623222bf4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": "7",
+        "name": "Barrels of Butter Beer",
+        "description": "Two barrels of the finest Butter Beer the Three Broomsticks has to offer.",
+        "price": "18",
+        "rating": "'*Hiccup*.' - Annonomous ",
+        "imageUrl": "https://images.unsplash.com/photo-1625999923861-41de6d21b96c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": "8",
+        "name": "School Robes",
+        "description": "Four pairs of an entire set of school robes.",
+        "price": 50,
+        "rating": "'A steal!' - Presley Peesly ",
+        "imageUrl": "https://images.unsplash.com/photo-1533750653522-70028fa24486?q=80&w=2086&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": "7892",
+        "name": "Goblet",
+        "description": "Goblet with the Warthogs Wizarding School crest",
+        "price": "15",
+        "rating": "\"Hold liquids well enough\" - Geralt Greenhouse",
+        "imageUrl": "https://images.unsplash.com/photo-1635010051157-71245711fe0d?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ]
+  }
+  
